@@ -17,7 +17,7 @@ For this project, you’ll create a single web page about a person whom you find
 
 ## Submission
 
-Submit this project by issuing a pull request to the original repo *by 5:00 PM on Thursday, 22 February 2018*. Also note, per the syllabus, **no** late work will be accepted, and this project may **only** be submitted via GitHub.
+Submit this project by issuing a pull request to the original repo *by 4:55 PM on Saturday, 15 September 2018*. Also note, per the syllabus, **no** late work will be accepted, and this project may **only** be submitted via GitHub.
 
 ## Grading
 
