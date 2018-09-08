@@ -1,3 +1,4 @@
+
 # Project 1 — HTML and CSS
 
 For this project, you’ll create a single web page about a person whom you find interesting. You must work in your own branch with the included files.
@@ -17,7 +18,7 @@ For this project, you’ll create a single web page about a person whom you find
 
 ## Submission
 
-Submit this project by issuing a pull request to the original repo *by 4:55 PM on Saturday, 22 September 2018*. Also note, per the syllabus, **no** late work will be accepted, and this project may **only** be submitted via GitHub.
+Submit this project by issuing a pull request to the original repo *by 1:00 PM on Saturday, 29 September 2018*. Also note, per the syllabus, **no** late work will be accepted, and this project may **only** be submitted via GitHub.
 
 ## Grading
 
